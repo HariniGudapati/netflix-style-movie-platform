@@ -11,3 +11,5 @@ Organized code structure for scalability
 Tech Stack
 Frontend: Angular, TypeScript, HTML5, CSS3
 Styling: Custom CSS & Angular directives
+
+https://harini23.netlify.app/
